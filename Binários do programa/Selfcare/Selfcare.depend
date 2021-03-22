@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605576824 source:e:\desktop\unip\pim\selfcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1605573822 source:c:\users\allan\downloads\atividades\07 unip\pim iv\selfcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
